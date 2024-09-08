@@ -1,7 +1,6 @@
-Hi, I'm Ashish. I'm a current student of Amsterdam Tech of European Leadership University.
-My programme is Professional Masters in Data Science and Leadership.
+Hi, I'm Ashish. 
 I'm interested in data anlysis in AI era.
-I'm currently learning Python.
+I'm currently learning and working with Python.
 I'm looking to collaborate on data analysis techniques and tools.
 I would appreciate if anybody helps me in this journey
 
